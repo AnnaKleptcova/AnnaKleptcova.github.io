@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <link rel="shortcut icon" href="/pictures/favicon.ico" type="image/x-icon" />
+</head>
 <head> 
 	<title>Anna Klepcova</title>
 	<link rel="stylesheet" href="main.css">
@@ -34,4 +37,3 @@
 </body>
 
 </html>
-
