@@ -1,6 +1,3 @@
-<link rel=”icon” href=”https://sitename.ru/favicon.ico” type=”image/x-icon”>
-![favicon-32x32](https://github.com/user-attachments/assets/2b2fb93f-aff4-4d5b-89eb-1d0c2bf4e6a2)
-![foto](https://github.com/user-attachments/assets/0467f35f-89b4-441d-99a6-d529b288c9bd)
 <!DOCTYPE html>
 <html>
 <head> 
